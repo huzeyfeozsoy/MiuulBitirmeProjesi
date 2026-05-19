@@ -1,0 +1,658 @@
+﻿player_id,player_name,position,date_of_birth,nationality,team_id,team_name
+3189,Kepa Arrizabalaga,Goalkeeper,1994-10-03,Spain,57,Arsenal FC
+4832,David Raya,Goalkeeper,1995-09-15,Spain,57,Arsenal FC
+171455,Tommy Setford,Goalkeeper,2006-03-13,England,57,Arsenal FC
+270449,Jack Porter,Goalkeeper,2008-07-15,England,57,Arsenal FC
+270668,Aleksei Fedorushchenko,Goalkeeper,2005-09-28,Russia,57,Arsenal FC
+221784,Jaden Dixon,Defence,2007-02-07,England,57,Arsenal FC
+270663,Josh Nichols,Defence,2006-07-26,England,57,Arsenal FC
+289765,Marli Salmon,Defence,2009-08-29,England,57,Arsenal FC
+285128,Max Dowman,Midfield,2009-12-31,England,57,Arsenal FC
+290105,Harrison Dudziak,Midfield,2006-01-09,England,57,Arsenal FC
+291747,Ifeoluwa Ibrahim,Midfield,2008-01-20,England,57,Arsenal FC
+293115,Ceadach O’Neill,Midfield,2008-04-10,Northern Ireland,57,Arsenal FC
+285598,Andre Harriman-Annous,Offence,2007-12-27,England,57,Arsenal FC
+291750,Brando Bailey-Joseph,Offence,2008-10-02,England,57,Arsenal FC
+125674,Piero Hincapié,Centre-Back,2002-01-09,Ecuador,57,Arsenal FC
+115035,Martín Zubimendi,Defensive Midfield,1999-02-02,Spain,57,Arsenal FC
+99813,Bukayo Saka,Right Winger,2001-09-05,England,57,Arsenal FC
+98816,Jurrien Timber,Right-Back,2001-06-17,Netherlands,57,Arsenal FC
+80171,William Saliba,Centre-Back,2001-03-24,France,57,Arsenal FC
+61450,Martinelli,Left Winger,2001-06-18,Brazil,57,Arsenal FC
+24102,Christian Nørgaard,Defensive Midfield,1994-03-10,Denmark,57,Arsenal FC
+23128,Gabriel,Centre-Back,1997-12-19,Brazil,57,Arsenal FC
+8984,Leandro Trossard,Left Winger,1994-12-04,Belgium,57,Arsenal FC
+8279,Viktor Gyökeres,Centre-Forward,1998-06-04,Sweden,57,Arsenal FC
+8215,Declan Rice,Central Midfield,1999-01-14,England,57,Arsenal FC
+7935,Mikel Merino,Central Midfield,1996-06-22,Spain,57,Arsenal FC
+7427,Martin Ødegaard,Attacking Midfield,1998-12-17,Norway,57,Arsenal FC
+6154,Ben White,Right-Back,1997-10-08,England,57,Arsenal FC
+4032,Eberechi Eze,Attacking Midfield,1998-06-29,England,57,Arsenal FC
+3236,Gabriel Jesus,Centre-Forward,1997-04-03,Brazil,57,Arsenal FC
+171,Kai Havertz,Centre-Forward,1999-06-11,Germany,57,Arsenal FC
+293640,Khari Ranson,null,2007-09-13,England,57,Arsenal FC
+244120,Myles Lewis-Skelly,Left-Back,2006-09-26,England,57,Arsenal FC
+172839,Cristhian Mosquera,Centre-Back,2004-06-27,Spain,57,Arsenal FC
+167720,Noni Madueke,Right Winger,2002-03-10,England,57,Arsenal FC
+133512,Riccardo Calafiori,Left-Back,2002-05-19,Italy,57,Arsenal FC
+3141,Emiliano Martínez,Goalkeeper,1992-09-02,Argentina,58,Aston Villa FC
+7675,Marco Bizot,Goalkeeper,1991-03-10,Netherlands,58,Aston Villa FC
+204460,James Wright,Goalkeeper,2004-12-02,England,58,Aston Villa FC
+244962,Sam Proctor,Goalkeeper,2006-12-21,England,58,Aston Villa FC
+286821,Russ Oakley,Goalkeeper,2008-09-16,England,58,Aston Villa FC
+289721,Ronnie Hollingshead,Goalkeeper,2004-09-09,Wales,58,Aston Villa FC
+290109,Leon Routh,Defence,2007-11-30,England,58,Aston Villa FC
+290400,TJ Carroll,Defence,2006-10-19,England,58,Aston Villa FC
+274024,Bradley Burrowes,Midfield,2008-03-04,England,58,Aston Villa FC
+289528,George Hemmings,Midfield,2007-03-04,England,58,Aston Villa FC
+292504,Mohamed Koné,Midfield,2007-07-03,Ivory Coast,58,Aston Villa FC
+260718,Alysson,Offence,2006-05-05,Brazil,58,Aston Villa FC
+33525,Douglas Luiz,Central Midfield,1998-05-09,Brazil,58,Aston Villa FC
+33109,Pau Torres,Centre-Back,1997-01-16,Spain,58,Aston Villa FC
+31941,Emiliano Buendía,Attacking Midfield,1996-12-25,Argentina,58,Aston Villa FC
+11644,Matty Cash,Right-Back,1997-08-07,Poland,58,Aston Villa FC
+8346,Boubacar Kamara,Defensive Midfield,1999-11-23,France,58,Aston Villa FC
+8235,Tyrone Mings,Centre-Back,1993-03-13,England,58,Aston Villa FC
+7985,Tammy Abraham,Centre-Forward,1997-10-02,England,58,Aston Villa FC
+7817,Ross Barkley,Central Midfield,1993-12-05,England,58,Aston Villa FC
+6317,Ezri Konsa,Centre-Back,1998-04-06,England,58,Aston Villa FC
+4444,Ollie Watkins,Centre-Forward,1995-12-30,England,58,Aston Villa FC
+3658,Youri Tielemans,Central Midfield,1997-05-07,Belgium,58,Aston Villa FC
+3492,Victor Nilsson-Lindelöf,Centre-Back,1994-07-17,Sweden,58,Aston Villa FC
+3359,Lucas Digne,Left-Back,1993-07-20,France,58,Aston Villa FC
+157,Leon Bailey,Right Winger,1997-08-09,Jamaica,58,Aston Villa FC
+146,Jadon Sancho,Left Winger,2000-03-25,England,58,Aston Villa FC
+203594,Andrés Garcia,Right-Back,2003-02-07,Spain,58,Aston Villa FC
+172899,Lamare Bogarde,Defensive Midfield,2004-01-05,Netherlands,58,Aston Villa FC
+131120,Ian Maatsen,Left-Back,2002-03-10,Netherlands,58,Aston Villa FC
+124824,Harvey Elliott,Central Midfield,2003-04-04,England,58,Aston Villa FC
+114024,Amadou Onana,Defensive Midfield,2001-08-16,Belgium,58,Aston Villa FC
+82140,Morgan Rogers,Attacking Midfield,2002-07-26,England,58,Aston Villa FC
+34646,John McGinn,Central Midfield,1994-10-18,Scotland,58,Aston Villa FC
+102895,James Hillson,Goalkeeper,2001-01-14,England,61,Chelsea FC
+135555,Robert Sánchez,Goalkeeper,1997-11-18,Spain,61,Chelsea FC
+137544,Gabriel Slonina,Goalkeeper,2004-05-15,USA,61,Chelsea FC
+153828,Filip Jörgensen,Goalkeeper,2002-04-16,Denmark,61,Chelsea FC
+175910,Teddy Sharman-Lowe,Goalkeeper,2003-01-19,England,61,Chelsea FC
+246715,Max Merrick,Goalkeeper,2005-11-10,England,61,Chelsea FC
+277888,Landon Emenalo,Defence,2008-01-18,England,61,Chelsea FC
+276866,Reggie Walsh,Midfield,2008-10-20,England,61,Chelsea FC
+292184,Charlie Holland,Midfield,2009-07-03,England,61,Chelsea FC
+244778,Estevao,Offence,2007-04-24,Brazil,61,Chelsea FC
+272058,Shumaira Mheuka,Offence,2007-10-20,England,61,Chelsea FC
+287945,Ryan Kavuma-McQueen,Offence,2009-01-01,England,61,Chelsea FC
+292473,Jesse Derry,Offence,2007-06-30,England,61,Chelsea FC
+295284,Mathis Eboué,Offence,2009-02-27,England,61,Chelsea FC
+170440,Levi Colwill,Centre-Back,2003-02-26,England,61,Chelsea FC
+170426,Benoît Badiashile,Centre-Back,2001-03-26,France,61,Chelsea FC
+166366,Andrey Santos,Central Midfield,2004-05-03,Brazil,61,Chelsea FC
+165314,Dario Essugo,Defensive Midfield,2005-03-14,Portugal,61,Chelsea FC
+152498,Malo Gusto,Right-Back,2003-05-19,France,61,Chelsea FC
+151095,Liam Delap,Centre-Forward,2003-02-08,England,61,Chelsea FC
+144892,Cole Palmer,Attacking Midfield,2002-05-06,England,61,Chelsea FC
+121103,Moisés Caicedo,Defensive Midfield,2001-11-02,Ecuador,61,Chelsea FC
+103125,João Pedro,Centre-Forward,2001-09-26,Brazil,61,Chelsea FC
+102603,Enzo Fernández,Central Midfield,2001-01-17,Argentina,61,Chelsea FC
+98978,Mykhailo Mudryk,Left Winger,2001-01-05,Ukraine,61,Chelsea FC
+56628,Reece James,Right-Back,1999-12-08,England,61,Chelsea FC
+15863,Cucurella,Left-Back,1998-07-22,Spain,61,Chelsea FC
+8545,Wesley Fofana,Centre-Back,2000-12-17,France,61,Chelsea FC
+7880,Tosin Adarabioyo,Centre-Back,1997-09-24,England,61,Chelsea FC
+7810,Trevoh Chalobah,Centre-Back,1999-07-05,England,61,Chelsea FC
+2074,Pedro Neto,Right Winger,2000-03-09,Portugal,61,Chelsea FC
+249320,Josh Acheampong,Right-Back,2006-05-05,England,61,Chelsea FC
+247243,Ollie Harrison,Defensive Midfield,2007-08-07,England,61,Chelsea FC
+207109,Marc Guiu,Centre-Forward,2006-01-04,Spain,61,Chelsea FC
+190866,Mamadou Sarr,Centre-Back,2005-08-29,Senegal,61,Chelsea FC
+189477,Jorrel Hato,Centre-Back,2006-03-07,Netherlands,61,Chelsea FC
+181901,Alejandro Garnacho,Left Winger,2004-07-01,Argentina,61,Chelsea FC
+179460,Jamie Bynoe-Gittens,Left Winger,2004-08-08,England,61,Chelsea FC
+177766,Caleb Wiley,Left-Back,2004-12-22,USA,61,Chelsea FC
+172738,Romeo Lavia,Defensive Midfield,2004-01-06,Belgium,61,Chelsea FC
+3309,Jordan Pickford,Goalkeeper,1994-03-07,England,62,Everton FC
+6180,Thomas King,Goalkeeper,1995-03-09,Wales,62,Everton FC
+82135,Mark Travers,Goalkeeper,1999-05-18,Ireland,62,Everton FC
+166547,Reece Welch,Defence,2003-09-19,England,62,Everton FC
+264281,Harrison Armstrong,Midfield,2007-01-19,England,62,Everton FC
+272715,Callum Bates,Midfield,2005-09-28,England,62,Everton FC
+290597,Malik Olayiwola,Midfield,2009-01-08,England,62,Everton FC
+244747,Briaden Graham,Offence,2007-11-07,Northern Ireland,62,Everton FC
+250436,Tyrique George,Left Winger,2006-02-04,England,62,Everton FC
+246476,Adam Aznou,Left-Back,2006-06-02,Morocco,62,Everton FC
+218525,Tyler Dibling,Right Winger,2006-02-17,England,62,Everton FC
+171995,Thierno Barry,Centre-Forward,2000-01-12,France,62,Everton FC
+169326,Tim Iroegbunam,Central Midfield,2002-08-12,England,62,Everton FC
+156552,Merlin Röhl,Central Midfield,2002-07-05,Germany,62,Everton FC
+140269,Carlos Alcaraz,Central Midfield,2002-11-30,Argentina,62,Everton FC
+140194,Kiernan Dewsbury Hall,Central Midfield,1998-09-06,England,62,Everton FC
+138174,Nathan Patterson,Right-Back,2001-10-16,Scotland,62,Everton FC
+131569,Jake O'Brien,Centre-Back,2001-05-15,Ireland,62,Everton FC
+125044,Beto,Centre-Forward,1998-01-31,Guinea-Bissau,62,Everton FC
+114120,Jarrad Branthwaite,Centre-Back,2002-06-27,England,62,Everton FC
+101076,James Garner,Defensive Midfield,2001-03-13,England,62,Everton FC
+94091,Iliman Ndiaye,Left Winger,1999-07-22,Senegal,62,Everton FC
+16165,Vitalii Mykolenko,Left-Back,1999-05-29,Ukraine,62,Everton FC
+11623,Dwight McNeil,Attacking Midfield,1999-11-22,England,62,Everton FC
+7836,Séamus Coleman,Right-Back,1988-10-11,Ireland,62,Everton FC
+7829,Michael Keane,Centre-Back,1993-01-11,England,62,Everton FC
+3895,Jack Grealish,Left Winger,1995-09-10,England,62,Everton FC
+3627,Idrissa Gana Guèye,Central Midfield,1989-09-26,Senegal,62,Everton FC
+3316,James Tarkowski,Centre-Back,1992-11-19,England,62,Everton FC
+3174,Bernd Leno,Goalkeeper,1992-03-04,Germany,63,Fulham FC
+8366,Benjamin Lecomte,Goalkeeper,1991-04-26,France,63,Fulham FC
+290421,Alfie McNally,Goalkeeper,2004-12-22,England,63,Fulham FC
+273201,Sam Amissah,Defence,2007-03-07,England,63,Fulham FC
+288548,Seth Ridgeon,Midfield,2008-09-12,England,63,Fulham FC
+179122,Kevin Santos,Offence,2003-01-04,Brazil,63,Fulham FC
+217577,Jonah Kusi-Asare,Offence,2007-07-04,Sweden,63,Fulham FC
+246418,Joshua King,Central Midfield,2007-01-03,England,63,Fulham FC
+179716,Oscar Bobb,Right Winger,2003-07-12,Norway,63,Fulham FC
+146154,Calvin Bassey,Centre-Back,1999-12-31,Nigeria,63,Fulham FC
+138036,Rodrigo Muniz,Centre-Forward,2001-05-04,Brazil,63,Fulham FC
+98750,Jorge Cuenca,Centre-Back,1999-11-17,Spain,63,Fulham FC
+85570,Emile Smith Rowe,Attacking Midfield,2000-07-28,England,63,Fulham FC
+33124,Samuel Chukwueze,Right Winger,1999-05-22,Nigeria,63,Fulham FC
+32938,Saša Lukić,Central Midfield,1996-08-13,Serbia,63,Fulham FC
+11777,Harry Wilson,Right Winger,1997-03-22,Wales,63,Fulham FC
+8973,Sander Berge,Defensive Midfield,1998-02-14,Norway,63,Fulham FC
+8460,Kenny Tete,Right-Back,1995-10-09,Netherlands,63,Fulham FC
+8296,Issa Diop,Centre-Back,1997-01-09,France,63,Fulham FC
+3995,Harrison Reed,Central Midfield,1995-01-27,England,63,Fulham FC
+3965,Tom Cairney,Central Midfield,1991-01-20,England,63,Fulham FC
+3959,Ryan Sessegnon,Left-Back,2000-05-18,England,63,Fulham FC
+3927,Antonee Robinson,Left-Back,1997-08-08,USA,63,Fulham FC
+3392,Alex Iwobi,Left Winger,1996-05-03,Nigeria,63,Fulham FC
+3305,Raúl Jiménez,Centre-Forward,1991-05-05,Mexico,63,Fulham FC
+2253,Joachim Andersen,Centre-Back,1996-05-31,Denmark,63,Fulham FC
+1836,Timothy Castagne,Right-Back,1995-12-05,Belgium,63,Fulham FC
+1795,Alisson,Goalkeeper,1992-10-02,Brazil,64,Liverpool FC
+11629,Freddie Woodman,Goalkeeper,1997-03-04,England,64,Liverpool FC
+84506,Giorgi Mamardashvili,Goalkeeper,2000-09-29,Georgia,64,Liverpool FC
+165154,Harvey Davies,Goalkeeper,2003-09-03,England,64,Liverpool FC
+182236,Armin Pecsi,Goalkeeper,2005-02-24,Hungary,64,Liverpool FC
+287947,Kornel Miściur,Goalkeeper,2007-04-27,Poland,64,Liverpool FC
+186701,Stefan Bajcetic,Defence,2004-10-22,Spain,64,Liverpool FC
+273063,Will Wright,Defence,2008-04-03,England,64,Liverpool FC
+288621,Wellity Lucky,Defence,2006-01-12,England,64,Liverpool FC
+288622,Carter Pinnington,Defence,2007-02-21,England,64,Liverpool FC
+295109,Mor Talla N'Diaye,Defence,2008-01-06,Senegal,64,Liverpool FC
+274726,Kieran Morrison,Midfield,2006-11-09,Northern Ireland,64,Liverpool FC
+286622,Tommy Pilling,Midfield,2004-09-14,England,64,Liverpool FC
+288625,Michael Laffey,Midfield,2005-10-11,England,64,Liverpool FC
+273453,Rio Ngumoha,Offence,2008-08-29,England,64,Liverpool FC
+288617,Keyrol Figueroa,Offence,2006-08-31,USA,64,Liverpool FC
+135636,Rhys Williams,Centre-Back,2001-02-03,England,64,Liverpool FC
+128954,Jeremie Frimpong,Right Midfield,2000-12-10,Netherlands,64,Liverpool FC
+124778,Calvin Ramsay,Right-Back,2003-07-31,Scotland,64,Liverpool FC
+81793,Ryan Gravenberch,Defensive Midfield,2002-05-16,Netherlands,64,Liverpool FC
+45681,Alexis Mac Allister,Central Midfield,1998-12-24,Argentina,64,Liverpool FC
+19334,Florian Wirtz,Attacking Midfield,2003-05-03,Germany,64,Liverpool FC
+16347,Dominik Szoboszlai,Central Midfield,2000-10-25,Hungary,64,Liverpool FC
+9542,Ibrahima Konaté,Centre-Back,1999-05-25,France,64,Liverpool FC
+7873,Curtis Jones,Central Midfield,2001-01-30,England,64,Liverpool FC
+7869,Virgil van Dijk,Centre-Back,1991-07-08,Netherlands,64,Liverpool FC
+7868,Andrew Robertson,Left-Back,1994-03-11,Scotland,64,Liverpool FC
+7862,Joe Gomez,Centre-Back,1997-05-23,England,64,Liverpool FC
+7459,Cody Gakpo,Left Winger,1999-05-07,Netherlands,64,Liverpool FC
+6486,Alexander Isak,Centre-Forward,1999-09-21,Sweden,64,Liverpool FC
+3754,Mohamed Salah,Right Winger,1992-06-15,Egypt,64,Liverpool FC
+3269,Wataru Endō,Defensive Midfield,1993-02-09,Japan,64,Liverpool FC
+1780,Federico Chiesa,Right Winger,1997-10-25,Italy,64,Liverpool FC
+248990,Amara Nallo,Centre-Back,2006-11-18,England,64,Liverpool FC
+247657,Jayden Danns,Centre-Forward,2006-01-16,England,64,Liverpool FC
+230517,Trey Nyoni,Attacking Midfield,2007-06-30,England,64,Liverpool FC
+192563,Giovanni Leoni,Centre-Back,2006-12-21,Italy,64,Liverpool FC
+175865,Conor Bradley,Right-Back,2003-07-09,Northern Ireland,64,Liverpool FC
+171141,Milos Kerkez,Left-Back,2003-11-07,Hungary,64,Liverpool FC
+157176,Kaide Gordon,Right Winger,2004-10-05,England,64,Liverpool FC
+152454,Hugo Ekitike,Centre-Forward,2002-06-20,France,64,Liverpool FC
+1731,Gianluigi Donnarumma,Goalkeeper,1999-02-25,Italy,65,Manchester City FC
+3953,Marcus Bettinelli,Goalkeeper,1992-05-24,England,65,Manchester City FC
+153874,James Trafford,Goalkeeper,2002-10-10,England,65,Manchester City FC
+270613,Kaden Braithwaite,Defence,2008-03-25,England,65,Manchester City FC
+290970,Kian Noble,Defence,2007-02-26,England,65,Manchester City FC
+292499,Floyd Samba,Defence,2009-01-15,France,65,Manchester City FC
+180453,Sverre Nypan,Midfield,2006-12-19,Norway,65,Manchester City FC
+206743,Nico O'Reilly,Midfield,2005-03-21,England,65,Manchester City FC
+286950,Ryan McAidoo,Midfield,2008-06-24,England,65,Manchester City FC
+290022,Charlie Gray,Midfield,2006-02-22,England,65,Manchester City FC
+290971,Tyrone Samba,Midfield,2007-12-31,France,65,Manchester City FC
+286775,Reigan Heskey,Offence,2008-01-19,England,65,Manchester City FC
+118489,Marc Guéhi,Centre-Back,2000-07-13,England,65,Manchester City FC
+99775,Jeremy Doku,Left Winger,2002-05-27,Belgium,65,Manchester City FC
+91512,Matheus Nunes,Central Midfield,1998-08-27,Portugal,65,Manchester City FC
+66896,Omar Marmoush,Centre-Forward,1999-02-07,Egypt,65,Manchester City FC
+38101,Erling Haaland,Centre-Forward,2000-07-21,Norway,65,Manchester City FC
+10183,Rúben Dias,Centre-Back,1997-05-14,Portugal,65,Manchester City FC
+8642,Rayan Aït Nouri,Left-Back,2001-06-06,Algeria,65,Manchester City FC
+8240,Nathan Aké,Centre-Back,1995-02-18,Netherlands,65,Manchester City FC
+7888,Phil Foden,Right Winger,2000-05-28,England,65,Manchester City FC
+7696,Tijjani Reijnders,Central Midfield,1998-07-29,Netherlands,65,Manchester City FC
+4417,Antoine Semenyo,Right Winger,2000-01-07,Ghana,65,Manchester City FC
+3313,John Stones,Centre-Back,1994-05-28,England,65,Manchester City FC
+3254,Bernardo Silva,Attacking Midfield,1994-08-10,Portugal,65,Manchester City FC
+3199,Rodri,Defensive Midfield,1996-06-22,Spain,65,Manchester City FC
+65,Mateo Kovačić,Central Midfield,1994-05-06,Croatia,65,Manchester City FC
+244856,Max Alleyne,Centre-Back,2005-07-21,England,65,Manchester City FC
+212868,Abdukodir Khusanov,Centre-Back,2004-02-29,Uzbekistan,65,Manchester City FC
+187202,Rico Lewis,Right-Back,2004-11-21,England,65,Manchester City FC
+171986,Nico Gonzalez,Central Midfield,2002-01-03,Spain,65,Manchester City FC
+146352,Sávio,Right Winger,2004-04-10,Brazil,65,Manchester City FC
+133242,Rayan Cherki,Attacking Midfield,2003-08-17,France,65,Manchester City FC
+122266,Joško Gvardiol,Left-Back,2002-01-23,Croatia,65,Manchester City FC
+8035,Tom Heaton,Goalkeeper,1986-04-15,England,66,Manchester United FC
+29518,Altay Bayındır,Goalkeeper,1998-04-14,Turkey,66,Manchester United FC
+129946,Senne Lammens,Goalkeeper,2002-07-07,Belgium,66,Manchester United FC
+188291,Tyler Fredricson,Defence,2005-02-23,England,66,Manchester United FC
+262921,Diego León,Defence,2007-04-03,Paraguay,66,Manchester United FC
+273281,Godwill Kukonki,Defence,2008-02-06,England,66,Manchester United FC
+278168,Bendito Mantato,Defence,2008-01-25,England,66,Manchester United FC
+271941,Jack Fletcher,Midfield,2007-03-19,England,66,Manchester United FC
+275523,Jack Moorhouse,Midfield,2005-11-29,Ireland,66,Manchester United FC
+290139,Tyler Fletcher,Midfield,2007-03-19,England,66,Manchester United FC
+294666,Jim Thwaites,Midfield,2007-12-20,England,66,Manchester United FC
+275522,Chido Obi-Martin,Offence,2007-11-29,Denmark,66,Manchester United FC
+289557,Shea Lacey,Offence,2007-04-14,England,66,Manchester United FC
+99731,Joshua Zirkzee,Centre-Forward,2001-05-22,Netherlands,66,Manchester United FC
+46451,Lisandro Martínez,Centre-Back,1998-01-18,Argentina,66,Manchester United FC
+30842,Matheus Cunha,Centre-Forward,1999-05-27,Brazil,66,Manchester United FC
+28549,Manuel Ugarte,Defensive Midfield,2001-04-11,Uruguay,66,Manchester United FC
+15905,Diogo Dalot,Right-Back,1999-03-18,Portugal,66,Manchester United FC
+8626,Bryan Mbeumo,Right Winger,1999-08-07,Cameroon,66,Manchester United FC
+7898,Luke Shaw,Left-Back,1995-07-12,England,66,Manchester United FC
+7599,Mason Mount,Attacking Midfield,1999-01-10,England,66,Manchester United FC
+7553,Noussair Mazraoui,Right-Back,1997-11-14,Morocco,66,Manchester United FC
+7549,Matthijs de Ligt,Centre-Back,1999-08-12,Netherlands,66,Manchester United FC
+7467,Tyrell Malacia,Left-Back,1999-08-17,Netherlands,66,Manchester United FC
+3326,Harry Maguire,Centre-Back,1993-03-05,England,66,Manchester United FC
+3257,Bruno Fernandes,Attacking Midfield,1994-09-08,Portugal,66,Manchester United FC
+3231,Casemiro,Defensive Midfield,1992-02-23,Brazil,66,Manchester United FC
+247644,Ayden Heaven,Centre-Back,2006-09-22,England,66,Manchester United FC
+211559,Patrick Dorgu,Left-Back,2004-10-26,Denmark,66,Manchester United FC
+190797,Kobbie Mainoo,Central Midfield,2005-04-19,England,66,Manchester United FC
+181933,Leny Yoro,Centre-Back,2005-11-13,France,66,Manchester United FC
+133584,Amad Diallo,Right Winger,2002-07-11,Ivory Coast,66,Manchester United FC
+124244,Benjamin Šeško,Centre-Forward,2003-05-31,Slovenia,66,Manchester United FC
+3310,Nick Pope,Goalkeeper,1992-04-19,England,67,Newcastle United FC
+4078,John Ruddy,Goalkeeper,1986-10-24,England,67,Newcastle United FC
+5048,Mark Gillespie,Goalkeeper,1992-03-27,England,67,Newcastle United FC
+5530,Aaron Ramsdale,Goalkeeper,1998-05-14,England,67,Newcastle United FC
+220503,Aidan Harris,Goalkeeper,2006-12-16,England,67,Newcastle United FC
+244853,Adam Harrison,Goalkeeper,2006-10-20,England,67,Newcastle United FC
+277574,Leo Shahar,Defence,2007-03-18,England,67,Newcastle United FC
+176852,Lewis Hall,Midfield,2004-09-08,England,67,Newcastle United FC
+289574,Sam Alabi,Midfield,2009-07-09,England,67,Newcastle United FC
+133547,Nick Woltemade,Offence,2002-02-14,Germany,67,Newcastle United FC
+275209,Sean Neave,Offence,2007-05-27,England,67,Newcastle United FC
+283375,Seung-soo Park,Offence,2007-03-17,South Korea,67,Newcastle United FC
+10653,Joelinton,Central Midfield,1996-08-14,Brazil,67,Newcastle United FC
+8076,Harvey Barnes,Left Winger,1997-12-09,England,67,Newcastle United FC
+7934,Jacob Murphy,Right Winger,1995-02-24,England,67,Newcastle United FC
+7848,Anthony Gordon,Left Winger,2001-02-24,England,67,Newcastle United FC
+7798,Joe Willock,Central Midfield,1999-08-20,England,67,Newcastle United FC
+4870,Dan Burn,Centre-Back,1992-05-09,England,67,Newcastle United FC
+3312,Kieran Trippier,Right-Back,1990-09-19,England,67,Newcastle United FC
+2563,Sandro Tonali,Central Midfield,2000-05-08,Italy,67,Newcastle United FC
+1868,Emil Krafth,Right-Back,1994-08-02,Sweden,67,Newcastle United FC
+1684,Bruno Guimarães,Defensive Midfield,1997-11-16,Brazil,67,Newcastle United FC
+612,Yoane Wissa,Centre-Forward,1996-09-03,DR Congo,67,Newcastle United FC
+88,Fabian Schär,Centre-Back,1991-12-20,Switzerland,67,Newcastle United FC
+230364,Alex Murphy,Left-Back,2004-06-25,Ireland,67,Newcastle United FC
+191939,Lewis Miley,Central Midfield,2006-05-01,England,67,Newcastle United FC
+169324,William Osula,Centre-Forward,2003-08-04,Denmark,67,Newcastle United FC
+168712,Valentino Livramento,Right-Back,2002-11-12,England,67,Newcastle United FC
+166376,Anthony Elanga,Right Winger,2002-04-27,Sweden,67,Newcastle United FC
+142732,Malick Thiaw,Centre-Back,2001-08-08,Germany,67,Newcastle United FC
+111437,Jacob Ramsey,Left Midfield,2001-05-28,England,67,Newcastle United FC
+81082,Sven Botman,Centre-Back,2000-01-12,Netherlands,67,Newcastle United FC
+4292,Simon Moore,Goalkeeper,1990-05-19,England,71,Sunderland AFC
+137691,Robin Roefs,Goalkeeper,2003-01-17,Netherlands,71,Sunderland AFC
+150893,Melker Ellborg,Goalkeeper,2003-05-22,Sweden,71,Sunderland AFC
+182273,Noah Sadiki,Defence,2004-12-17,DR Congo,71,Sunderland AFC
+285390,Jenson Jones,Defence,2006-06-26,England,71,Sunderland AFC
+187375,Nilson Angulo,Midfield,2003-06-19,Ecuador,71,Sunderland AFC
+192313,Chemsdine Talbi,Midfield,2005-05-09,Morocco,71,Sunderland AFC
+249412,Harrison Jones,Midfield,2005-02-13,England,71,Sunderland AFC
+285389,Jaydon Jones,Midfield,2006-11-03,England,71,Sunderland AFC
+285392,Jack Whittaker,Midfield,2006-10-14,England,71,Sunderland AFC
+290809,Jocelin Bi,Offence,2005-02-09,Ivory Coast,71,Sunderland AFC
+293571,Finn Geragusyan,Offence,2008-01-01,Armenia,71,Sunderland AFC
+172123,Dennis Cirkin,Left-Back,2002-04-06,Latvia,71,Sunderland AFC
+171876,Habib Diarra,Central Midfield,2004-01-03,Senegal,71,Sunderland AFC
+165311,Abdoullah Ba,Right Midfield,2003-07-31,France,71,Sunderland AFC
+121109,Daniel Ballard,Centre-Back,1999-09-22,Northern Ireland,71,Sunderland AFC
+117687,Trai Hume,Right-Back,2002-03-18,Northern Ireland,71,Sunderland AFC
+99664,Enzo Le Fée,Central Midfield,2000-02-03,France,71,Sunderland AFC
+97535,Brian Brobbey,Centre-Forward,2002-02-01,Netherlands,71,Sunderland AFC
+83599,Wilson Isidor,Centre-Forward,2000-08-27,France,71,Sunderland AFC
+46491,Omar Alderete,Centre-Back,1996-12-26,Paraguay,71,Sunderland AFC
+37094,Reinildo,Left-Back,1994-01-21,Mozambique,71,Sunderland AFC
+8467,Bertrand Traoré,Right Winger,1995-09-06,Burkina Faso,71,Sunderland AFC
+8371,Nordi Mukiele,Right-Back,1997-11-01,France,71,Sunderland AFC
+7468,Lutsharel Geertruida,Right-Back,2000-07-18,Netherlands,71,Sunderland AFC
+6259,Luke O'Nien,Centre-Back,1994-11-21,England,71,Sunderland AFC
+3477,Granit Xhaka,Defensive Midfield,1992-09-27,Switzerland,71,Sunderland AFC
+268830,Milan Aleksić,Central Midfield,2005-08-30,Serbia,71,Sunderland AFC
+191889,Ahmed Abdullahi,Centre-Forward,2004-06-19,Nigeria,71,Sunderland AFC
+190817,Chris Rigg,Central Midfield,2007-06-18,England,71,Sunderland AFC
+178644,Eliezer Mayenda,Centre-Forward,2005-05-08,Spain,71,Sunderland AFC
+172275,Romaine Mundle,Left Winger,2003-04-24,England,71,Sunderland AFC
+3086,Guglielmo Vicario,Goalkeeper,1996-10-07,Italy,73,Tottenham Hotspur FC
+133229,Brandon Austin,Goalkeeper,1999-01-08,England,73,Tottenham Hotspur FC
+255239,Antonín Kinský,Goalkeeper,2003-03-13,Czech Republic,73,Tottenham Hotspur FC
+274554,Luca Gunter,Goalkeeper,2005-03-23,England,73,Tottenham Hotspur FC
+249465,Souza,Defence,2006-06-16,Brazil,73,Tottenham Hotspur FC
+272980,Malachi Hardy,Defence,2008-03-10,England,73,Tottenham Hotspur FC
+283174,Jun'ai Byfield,Defence,2008-12-06,England,73,Tottenham Hotspur FC
+288618,James Rowswell,Defence,2006-07-13,England,73,Tottenham Hotspur FC
+272688,Callum Olusesi,Midfield,2007-03-11,England,73,Tottenham Hotspur FC
+274808,Rio Kyerematen,Midfield,2005-06-09,England,73,Tottenham Hotspur FC
+291749,Tye Hall,Midfield,2007-10-01,England,73,Tottenham Hotspur FC
+216418,James Wilson,Offence,2007-03-06,Scotland,73,Tottenham Hotspur FC
+272687,Luca Williams-Barnett,Offence,2008-10-01,England,73,Tottenham Hotspur FC
+286774,Tynan Thompson,Offence,2008-04-17,England,73,Tottenham Hotspur FC
+140432,Radu Drăgușin,Centre-Back,2002-02-03,Romania,73,Tottenham Hotspur FC
+131177,Mickey van de Ven,Centre-Back,2001-04-19,Netherlands,73,Tottenham Hotspur FC
+119265,Conor Gallagher,Central Midfield,2000-02-06,England,73,Tottenham Hotspur FC
+81037,Pedro Porro,Right-Back,1999-09-13,Spain,73,Tottenham Hotspur FC
+80775,Djed Spence,Right-Back,2000-08-09,England,73,Tottenham Hotspur FC
+77399,Mohammed Kudus,Right Winger,2000-08-02,Ghana,73,Tottenham Hotspur FC
+45735,Christian Romero,Centre-Back,1998-04-27,Argentina,73,Tottenham Hotspur FC
+15884,João Palhinha,Defensive Midfield,1995-07-09,Portugal,73,Tottenham Hotspur FC
+8708,Randal Kolo Muani,Centre-Forward,1998-12-05,France,73,Tottenham Hotspur FC
+8410,Yves Bissouma,Defensive Midfield,1996-08-30,Mali,73,Tottenham Hotspur FC
+8133,Richarlison,Centre-Forward,1997-05-10,Brazil,73,Tottenham Hotspur FC
+7994,Ben Davies,Centre-Back,1993-04-24,Wales,73,Tottenham Hotspur FC
+7878,Dominic Solanke,Centre-Forward,1997-09-14,England,73,Tottenham Hotspur FC
+6655,Kevin Danso,Centre-Back,1998-09-19,Austria,73,Tottenham Hotspur FC
+3992,James Maddison,Attacking Midfield,1996-11-23,England,73,Tottenham Hotspur FC
+2041,Rodrigo Bentancur,Defensive Midfield,1997-06-25,Uruguay,73,Tottenham Hotspur FC
+1859,Dejan Kulusevski,Attacking Midfield,2000-04-25,Sweden,73,Tottenham Hotspur FC
+193622,Lucas Bergvall,Central Midfield,2006-02-02,Sweden,73,Tottenham Hotspur FC
+184999,Wilson Odobert,Right Winger,2004-11-28,France,73,Tottenham Hotspur FC
+177040,Archie Gray,Right-Back,2006-03-12,England,73,Tottenham Hotspur FC
+171977,Mathys Tel,Centre-Forward,2005-04-27,France,73,Tottenham Hotspur FC
+170391,Pape Sarr,Central Midfield,2002-09-14,Senegal,73,Tottenham Hotspur FC
+170378,Destiny Udogie,Left-Back,2002-11-28,Italy,73,Tottenham Hotspur FC
+148289,Xavi Simons,Attacking Midfield,2003-04-21,Netherlands,73,Tottenham Hotspur FC
+3884,Sam Johnstone,Goalkeeper,1993-03-25,England,76,Wolverhampton Wanderers FC
+4418,Daniel Bentley,Goalkeeper,1993-07-13,England,76,Wolverhampton Wanderers FC
+15899,José Sá,Goalkeeper,1993-01-17,Portugal,76,Wolverhampton Wanderers FC
+227022,Josh Gracey,Goalkeeper,2007-12-14,Northern Ireland,76,Wolverhampton Wanderers FC
+260577,Alfie Brooks,Goalkeeper,2004-03-17,England,76,Wolverhampton Wanderers FC
+205467,David Wolfe,Defence,2002-04-23,Norway,76,Wolverhampton Wanderers FC
+290067,Saheed Olagunju,Defence,2007-01-07,England,76,Wolverhampton Wanderers FC
+213637,Ethan Sutherland,Midfield,2006-04-25,Scotland,76,Wolverhampton Wanderers FC
+265562,Luke Rawlings,Midfield,,England,76,Wolverhampton Wanderers FC
+272968,Tom Edozie,Midfield,2006-05-18,England,76,Wolverhampton Wanderers FC
+291972,Jerome Abbey,Midfield,2009-09-16,England,76,Wolverhampton Wanderers FC
+120981,Toluwalas Arokodare,Offence,2000-11-23,Nigeria,76,Wolverhampton Wanderers FC
+171027,Jackson Tchatchoua,Offence,2002-06-22,Cameroon,76,Wolverhampton Wanderers FC
+276066,Mateus Mané,Offence,2007-09-16,Portugal,76,Wolverhampton Wanderers FC
+249435,Pedro Lima,Right-Back,2006-07-01,Brazil,76,Wolverhampton Wanderers FC
+193014,Enso Gonzalez,Left Winger,2005-01-20,Paraguay,76,Wolverhampton Wanderers FC
+189575,Nathan Fraser,Centre-Forward,2005-02-22,England,76,Wolverhampton Wanderers FC
+157709,Hugo Bueno,Left-Back,2002-09-18,Spain,76,Wolverhampton Wanderers FC
+153570,Yerson Mosquera,Centre-Back,2001-05-02,Colombia,76,Wolverhampton Wanderers FC
+151521,Rodrigo Gomes,Right Midfield,2003-07-07,Portugal,76,Wolverhampton Wanderers FC
+145538,André,Defensive Midfield,2001-07-16,Brazil,76,Wolverhampton Wanderers FC
+138034,João Gomes,Central Midfield,2001-02-12,Brazil,76,Wolverhampton Wanderers FC
+102223,Toti Gomes,Centre-Back,1999-01-16,Portugal,76,Wolverhampton Wanderers FC
+62493,Ladislav Krejčí,Centre-Back,1999-04-20,Czech Republic,76,Wolverhampton Wanderers FC
+32767,Santiago Bueno,Centre-Back,1998-11-09,Uruguay,76,Wolverhampton Wanderers FC
+7910,Angel Gomes,Attacking Midfield,2000-08-31,England,76,Wolverhampton Wanderers FC
+4863,Adam Armstrong,Centre-Forward,1997-02-10,England,76,Wolverhampton Wanderers FC
+4081,Matt Doherty,Right-Back,1992-01-16,Ireland,76,Wolverhampton Wanderers FC
+3354,Hwang Heechan,Centre-Forward,1996-01-26,South Korea,76,Wolverhampton Wanderers FC
+788,Jean-Ricner Bellegarde,Central Midfield,1998-06-27,Haiti,76,Wolverhampton Wanderers FC
+7914,Martin Dúbravka,Goalkeeper,1989-01-15,Slovakia,328,Burnley FC
+62651,Václav Hladký,Goalkeeper,1990-11-14,Czech Republic,328,Burnley FC
+175800,Max Weiss,Goalkeeper,2004-06-15,Germany,328,Burnley FC
+190916,Murray Campbell,Defence,2006-07-25,Scotland,328,Burnley FC
+192680,Enock Agyei,Midfield,2005-01-13,Belgium,328,Burnley FC
+207566,Mike Trésor,Midfield,1999-05-28,Belgium,328,Burnley FC
+213243,Josh Laurent,Midfield,1995-05-06,England,328,Burnley FC
+285388,Oliver Pimlott,Midfield,2007-04-07,England,328,Burnley FC
+286640,Ellis Clark,Midfield,2007-06-26,Scotland,328,Burnley FC
+286650,George Brierley,Midfield,2007-11-20,England,328,Burnley FC
+293273,Kian Brown,Midfield,2008-08-03,Ireland,328,Burnley FC
+122313,Zeki Amdouni,Offence,2000-12-04,Switzerland,328,Burnley FC
+286670,Brandon Pouani,Offence,2007-12-10,England,328,Burnley FC
+143054,Armando Broja,Centre-Forward,2001-09-10,Albania,328,Burnley FC
+67893,Zian Flemming,Attacking Midfield,1998-08-01,Netherlands,328,Burnley FC
+37560,Florentino,Defensive Midfield,1999-08-19,Portugal,328,Burnley FC
+34760,Lyle Foster,Centre-Forward,2000-09-04,South Africa,328,Burnley FC
+31560,Hjalmar Ekdal,Centre-Back,1998-10-21,Sweden,328,Burnley FC
+11298,Joe Worrall,Centre-Back,1997-01-10,England,328,Burnley FC
+9405,Jacob Bruun Larsen,Left Winger,1998-09-19,Denmark,328,Burnley FC
+8217,Josh Cullen,Defensive Midfield,1996-04-07,Ireland,328,Burnley FC
+8088,James Ward-Prowse,Central Midfield,1994-11-01,England,328,Burnley FC
+8054,Ashley Barnes,Centre-Forward,1989-10-30,England,328,Burnley FC
+7980,Connor Roberts,Right-Back,1995-09-23,Wales,328,Burnley FC
+6678,Louis Beyer,Centre-Back,2000-05-19,Germany,328,Burnley FC
+3999,Marcus Edwards,Right Winger,1998-12-03,England,328,Burnley FC
+3894,Axel Tuanzebe,Right-Back,1997-11-14,DR Congo,328,Burnley FC
+3311,Kyle Walker,Right-Back,1990-05-28,England,328,Burnley FC
+190547,Bashir Humphreys,Centre-Back,2003-03-15,England,328,Burnley FC
+187219,Quilindschy Hartman,Left-Back,2001-11-14,Netherlands,328,Burnley FC
+177627,Lucas Pires,Left-Back,2001-03-24,Brazil,328,Burnley FC
+175784,Maxime Estève,Centre-Back,2002-05-26,France,328,Burnley FC
+170394,Loum Tchaouna,Right Winger,2003-09-08,France,328,Burnley FC
+169325,Hannibal Mejbri,Attacking Midfield,2003-01-21,Tunisia,328,Burnley FC
+153555,Chimuanya Ugochukwu,Defensive Midfield,2004-03-26,France,328,Burnley FC
+150778,Jaidon Anthony,Left Winger,1999-12-01,England,328,Burnley FC
+1331,Lucas Perri,Goalkeeper,1997-12-10,Brazil,341,Leeds United FC
+5315,Alex Cairns,Goalkeeper,1993-01-04,England,341,Leeds United FC
+7913,Karl Darlow,Goalkeeper,1990-10-08,Wales,341,Leeds United FC
+74831,Illan Meslier,Goalkeeper,2000-03-02,France,341,Leeds United FC
+250288,Charlie Crewe,Midfield,2006-06-15,Wales,341,Leeds United FC
+265196,Sam Chambers,Midfield,2007-08-18,Scotland,341,Leeds United FC
+184273,Facundo Buonanotte,Attacking Midfield,2004-12-23,Argentina,341,Leeds United FC
+180813,Wilfried Gnonto,Right Winger,2003-11-05,Italy,341,Leeds United FC
+113262,Brenden Aaronson,Attacking Midfield,2000-10-22,USA,341,Leeds United FC
+75284,Ilia Gruev,Defensive Midfield,2000-05-06,Bulgaria,341,Leeds United FC
+74688,Jaka Bijol,Centre-Back,1999-02-05,Slovenia,341,Leeds United FC
+67978,Joël Piroe,Attacking Midfield,1999-08-02,Netherlands,341,Leeds United FC
+65843,Anton Stach,Central Midfield,1998-11-15,Germany,341,Leeds United FC
+49105,Ao Tanaka,Central Midfield,1998-09-10,Japan,341,Leeds United FC
+31531,Gabriel Gudmundsson,Left-Back,1999-04-29,Sweden,341,Leeds United FC
+16058,Noah Okafor,Left Winger,2000-05-24,Switzerland,341,Leeds United FC
+8847,Sebastiaan Bornauw,Centre-Back,1999-03-22,Belgium,341,Leeds United FC
+8203,Sam Byram,Right-Back,1993-09-16,England,341,Leeds United FC
+7974,Daniel James,Right Winger,1997-11-10,Wales,341,Leeds United FC
+7892,Lukas Nmecha,Centre-Forward,1998-12-14,Germany,341,Leeds United FC
+7839,Dominic Calvert-Lewin,Centre-Forward,1997-03-16,England,341,Leeds United FC
+7815,Ethan Ampadu,Defensive Midfield,2000-09-14,Wales,341,Leeds United FC
+5714,Joe Rodon,Centre-Back,1997-10-22,Wales,341,Leeds United FC
+5613,James Justin,Right-Back,1998-02-23,England,341,Leeds United FC
+4955,Sean Longstaff,Central Midfield,1997-10-30,England,341,Leeds United FC
+4184,Jayden Bogle,Right-Back,2000-07-27,England,341,Leeds United FC
+4146,Pascal Struijk,Centre-Back,1999-08-11,Netherlands,341,Leeds United FC
+1299,John,Goalkeeper,1996-02-13,Brazil,351,Nottingham Forest FC
+3643,Matz Sels,Goalkeeper,1992-02-26,Belgium,351,Nottingham Forest FC
+3981,Angus Gunn,Goalkeeper,1996-01-22,Scotland,351,Nottingham Forest FC
+6958,Stefan Ortega Moreno,Goalkeeper,1992-11-06,Germany,351,Nottingham Forest FC
+287984,Keehan Willows,Goalkeeper,2005-10-01,England,351,Nottingham Forest FC
+289913,Aaron Bott,Goalkeeper,2004-09-06,England,351,Nottingham Forest FC
+179782,Jair Paula,Defence,2005-03-07,Brazil,351,Nottingham Forest FC
+293808,Justin Hanks,Defence,2004-09-01,England,351,Nottingham Forest FC
+289122,Jimmy Sinclair,Midfield,2006-08-11,England,351,Nottingham Forest FC
+289123,Archie Whitehall,Midfield,2006-05-21,England,351,Nottingham Forest FC
+256339,Igor Jesus,Offence,2001-02-25,Brazil,351,Nottingham Forest FC
+287987,Zyan Blake,Offence,2007-11-13,England,351,Nottingham Forest FC
+119596,Morato,Centre-Back,2001-06-30,Brazil,351,Nottingham Forest FC
+107330,Elliot Anderson,Central Midfield,2002-11-06,England,351,Nottingham Forest FC
+77641,Dan Ndoye,Right Winger,2000-10-25,Switzerland,351,Nottingham Forest FC
+46346,Nicolás Domínguez,Central Midfield,1998-06-28,Argentina,351,Nottingham Forest FC
+40305,Lorenzo Lucca,Centre-Forward,2000-09-10,Italy,351,Nottingham Forest FC
+9218,Taiwo Awoniyi,Centre-Forward,1997-08-12,Nigeria,351,Nottingham Forest FC
+8307,Ibrahim Sangaré,Defensive Midfield,1997-12-02,Ivory Coast,351,Nottingham Forest FC
+8057,Chris Wood,Centre-Forward,1991-12-07,New Zealand,351,Nottingham Forest FC
+7816,Callum Hudson-Odoi,Left Winger,2000-11-07,England,351,Nottingham Forest FC
+5435,Ryan Yates,Central Midfield,1997-11-21,England,351,Nottingham Forest FC
+4091,Morgan Gibbs-White,Attacking Midfield,2000-01-27,England,351,Nottingham Forest FC
+4086,Willy Boly,Centre-Back,1991-02-03,Ivory Coast,351,Nottingham Forest FC
+3386,Ola Aina,Right-Back,1996-10-08,Nigeria,351,Nottingham Forest FC
+1775,Nikola Milenković,Centre-Back,1997-10-12,Serbia,351,Nottingham Forest FC
+227007,Eric da Silva Moreira,Right Midfield,2006-05-03,Germany,351,Nottingham Forest FC
+204483,Zach Abbott,Centre-Back,2006-05-13,England,351,Nottingham Forest FC
+192637,Murillo,Centre-Back,2002-07-04,Brazil,351,Nottingham Forest FC
+191730,Nicolò Savona,Right-Back,2003-03-19,Italy,351,Nottingham Forest FC
+177477,Omari Hutchinson,Attacking Midfield,2003-10-29,England,351,Nottingham Forest FC
+172956,James McAtee,Attacking Midfield,2002-10-18,England,351,Nottingham Forest FC
+151295,Dilane Bakwa,Right Winger,2002-08-26,France,351,Nottingham Forest FC
+144361,Luca Netz,Left-Back,2003-05-15,Germany,351,Nottingham Forest FC
+133765,Neco Williams,Right-Back,2001-04-13,Wales,351,Nottingham Forest FC
+5457,Dean Henderson,Goalkeeper,1997-03-12,England,354,Crystal Palace FC
+6413,Remi Matthews,Goalkeeper,1994-02-10,England,354,Crystal Palace FC
+8420,Walter Benítez,Goalkeeper,1993-03-19,Argentina,354,Crystal Palace FC
+293810,Jackson Izquierdo,Goalkeeper,2004-10-15,England,354,Crystal Palace FC
+260271,Jaydee Canvot,Defence,2006-07-29,France,354,Crystal Palace FC
+278973,Rio Cardines,Defence,2006-01-07,Trinidad & Tobago,354,Crystal Palace FC
+290013,George King,Defence,2007-03-20,England,354,Crystal Palace FC
+180389,Adam Wharton,Midfield,2004-02-06,England,354,Crystal Palace FC
+289916,Joel Drakes-Thomas,Midfield,2009-06-09,England,354,Crystal Palace FC
+290017,Dean Benamar,Midfield,2008-05-31,England,354,Crystal Palace FC
+180081,Yeremy,Offence,2002-10-20,Spain,354,Crystal Palace FC
+213269,Jørgen Strand Larsen,Offence,2000-02-06,Norway,354,Crystal Palace FC
+272716,Zach Marsh,Offence,2005-10-06,England,354,Crystal Palace FC
+289917,Benjamin Casey,Offence,2007-11-30,England,354,Crystal Palace FC
+128710,Evann Guessand,Centre-Forward,2001-07-01,Ivory Coast,354,Crystal Palace FC
+124694,Brennan Johnson,Right Winger,2001-05-23,Wales,354,Crystal Palace FC
+99856,Chris Richards,Centre-Back,2000-03-28,USA,354,Crystal Palace FC
+82351,Maxence Lacroix,Centre-Back,2000-04-06,France,354,Crystal Palace FC
+74677,Cheick Doucouré,Defensive Midfield,2000-01-08,Mali,354,Crystal Palace FC
+22010,Daniel Muñoz,Right-Back,1996-05-26,Colombia,354,Crystal Palace FC
+10208,Borna Sosa,Left Midfield,1998-01-21,Croatia,354,Crystal Palace FC
+8124,Will Hughes,Central Midfield,1995-04-17,England,354,Crystal Palace FC
+7863,Nathaniel Clyne,Right-Back,1991-04-05,England,354,Crystal Palace FC
+7800,Eddie Nketiah,Centre-Forward,1999-05-30,England,354,Crystal Palace FC
+6716,Daichi Kamada,Attacking Midfield,1996-08-05,Japan,354,Crystal Palace FC
+3737,Jefferson Lerma,Defensive Midfield,1994-10-25,Colombia,354,Crystal Palace FC
+3638,Ismaïla Sarr,Right Winger,1998-02-25,Senegal,354,Crystal Palace FC
+641,Jean-Philippe Mateta,Centre-Forward,1997-06-28,France,354,Crystal Palace FC
+270859,Caleb Kporha,Right-Back,2006-07-15,England,354,Crystal Palace FC
+260763,Chrisantus,Attacking Midfield,2003-05-19,Nigeria,354,Crystal Palace FC
+187401,Kaden Rodney,Defensive Midfield,2004-10-07,England,354,Crystal Palace FC
+152149,Justin Devenny,Central Midfield,2003-10-11,Northern Ireland,354,Crystal Palace FC
+150948,Chadi Riad,Centre-Back,2003-06-17,Morocco,354,Crystal Palace FC
+137068,Tyrick Mitchell,Left-Back,1999-09-01,England,354,Crystal Palace FC
+4040,Jason Steele,Goalkeeper,1990-08-18,England,397,Brighton & Hove Albion FC
+126870,Bart Verbruggen,Goalkeeper,2002-08-18,Netherlands,397,Brighton & Hove Albion FC
+140203,Thomas McGill,Goalkeeper,2000-03-25,England,397,Brighton & Hove Albion FC
+230048,Nils Ramming,Goalkeeper,2007-03-28,Sweden,397,Brighton & Hove Albion FC
+142075,Maxim De Cuyper,Defence,2000-12-22,Belgium,397,Brighton & Hove Albion FC
+277479,Charlie Tasker,Defence,2006-02-24,England,397,Brighton & Hove Albion FC
+277783,Freddie Simmonds,Defence,2008-03-09,England,397,Brighton & Hove Albion FC
+287852,Nehemiah Oriola,Midfield,2007-06-11,England,397,Brighton & Hove Albion FC
+264300,Charalampos Kostoulas,Offence,2007-05-30,Greece,397,Brighton & Hove Albion FC
+277782,Harry Howell,Offence,2008-04-20,England,397,Brighton & Hove Albion FC
+98566,Jan Paul van Hecke,Centre-Back,2000-06-08,Netherlands,397,Brighton & Hove Albion FC
+97505,Mats Wieffer,Defensive Midfield,1999-11-16,Netherlands,397,Brighton & Hove Albion FC
+81189,Georginio Rutter,Centre-Forward,2002-04-20,France,397,Brighton & Hove Albion FC
+10777,Igor,Centre-Back,1998-02-07,Brazil,397,Brighton & Hove Albion FC
+9869,Ferdi Kadıoğlu,Left-Back,1999-10-07,Turkey,397,Brighton & Hove Albion FC
+8273,Pascal Groß,Central Midfield,1991-06-15,Germany,397,Brighton & Hove Albion FC
+8259,Lewis Dunk,Centre-Back,1991-11-21,England,397,Brighton & Hove Albion FC
+7861,James Milner,Central Midfield,1986-01-04,England,397,Brighton & Hove Albion FC
+7547,Joël Veltman,Right-Back,1992-01-15,Netherlands,397,Brighton & Hove Albion FC
+4228,Adam Webster,Centre-Back,1995-01-04,England,397,Brighton & Hove Albion FC
+3974,Matt O'Riley,Central Midfield,2000-11-21,Denmark,397,Brighton & Hove Albion FC
+3328,Danny Welbeck,Centre-Forward,1990-11-26,England,397,Brighton & Hove Albion FC
+846,Olivier Boscagli,Centre-Back,1997-11-18,France,397,Brighton & Hove Albion FC
+209504,Stefanos Tzimas,Centre-Forward,2006-01-06,Greece,397,Brighton & Hove Albion FC
+190851,Jack Hinshelwood,Central Midfield,2005-04-11,England,397,Brighton & Hove Albion FC
+187482,Yankubah Minteh,Right Winger,2004-07-22,Gambia,397,Brighton & Hove Albion FC
+178951,Diego Gómez,Central Midfield,2003-03-27,Paraguay,397,Brighton & Hove Albion FC
+178604,Carlos Baleba,Defensive Midfield,2004-01-03,Cameroon,397,Brighton & Hove Albion FC
+161365,Solly March,Right Winger,1994-07-20,England,397,Brighton & Hove Albion FC
+145613,Yasin Ayari,Central Midfield,2003-10-06,Sweden,397,Brighton & Hove Albion FC
+132707,Kaoru Mitoma,Left Winger,1997-05-20,Japan,397,Brighton & Hove Albion FC
+4419,Ellery Balcombe,Goalkeeper,1999-10-15,England,402,Brentford FC
+102046,Caoimhin Kelleher,Goalkeeper,1998-11-23,Ireland,402,Brentford FC
+144530,Hákon Rafn Valdimarsson,Goalkeeper,2001-10-13,Iceland,402,Brentford FC
+274963,Julian Eyestone,Goalkeeper,2006-04-21,USA,402,Brentford FC
+191077,Romelle Donovan,Midfield,1974-01-01,England,402,Brentford FC
+289808,Josh Stephenson,Midfield,2007-09-04,England,402,Brentford FC
+292027,Luka Bentt,Midfield,2007-10-01,Belgium,402,Brentford FC
+292548,Ollie Shield,Midfield,2006-09-25,England,402,Brentford FC
+293865,Conor McManus,Midfield,2004-12-15,Ireland,402,Brentford FC
+294501,Riley Owen,Midfield,2005-08-24,England,402,Brentford FC
+175994,Thiago Rodrigues,Offence,2001-06-26,Brazil,402,Brentford FC
+213518,Kaye Furo,Offence,2007-02-06,Belgium,402,Brentford FC
+123286,Kevin Schade,Left Winger,2001-11-27,Germany,402,Brentford FC
+115642,Nathan Collins,Centre-Back,2001-04-30,Ireland,402,Brentford FC
+101910,Keane Lewis-Potter,Left Winger,2001-02-22,England,402,Brentford FC
+101111,Aaron Hickey,Right-Back,2002-01-01,Scotland,402,Brentford FC
+24238,Mikkel Damsgaard,Left Winger,2000-07-03,Denmark,402,Brentford FC
+16068,Kristoffer Ajer,Centre-Back,1998-04-17,Norway,402,Brentford FC
+10194,Mathias Jensen,Central Midfield,1996-01-01,Denmark,402,Brentford FC
+10000,Vitaly Janelt,Defensive Midfield,1998-05-10,Germany,402,Brentford FC
+7799,Reiss Nelson,Right Winger,1999-12-10,England,402,Brentford FC
+7796,Josh Dasilva,Central Midfield,1998-10-23,England,402,Brentford FC
+7720,Sepp van den Berg,Centre-Back,2001-12-20,Netherlands,402,Brentford FC
+4426,Rico Henry,Left-Back,1997-07-08,Jamaica,402,Brentford FC
+4334,Ethan Pinnock,Centre-Back,1993-05-29,Jamaica,402,Brentford FC
+3320,Jordan Henderson,Central Midfield,1990-06-17,England,402,Brentford FC
+204421,Yegor Yarmolyuk,Attacking Midfield,2004-03-01,Ukraine,402,Brentford FC
+204348,Michael Kayode,Right-Back,2004-07-10,Italy,402,Brentford FC
+177305,Dango Ouattara,Left Winger,2002-02-11,Burkina Faso,402,Brentford FC
+171965,Antoni Milambo,Central Midfield,2005-04-03,Netherlands,402,Brentford FC
+151119,Fabio Carvalho,Attacking Midfield,2002-08-30,Portugal,402,Brentford FC
+3357,Alphonse Aréola,Goalkeeper,1993-02-27,France,563,West Ham United FC
+3526,Łukasz Fabiański,Goalkeeper,1985-04-18,Poland,563,West Ham United FC
+97144,Mads Hermansen,Goalkeeper,2000-07-11,Denmark,563,West Ham United FC
+285739,Finlay Herrick,Goalkeeper,2006-01-18,England,563,West Ham United FC
+205441,El Hadji Diouf,Defence,2004-12-28,Senegal,563,West Ham United FC
+273157,Ezra Mayers,Defence,2007-01-16,England,563,West Ham United FC
+289166,Airidas Golambeckis,Defence,2007-11-04,Lithuania,563,West Ham United FC
+219676,Mohamadou Kante,Midfield,2005-09-20,France,563,West Ham United FC
+178755,Pablo Felipe,Offence,2004-01-02,Brazil,563,West Ham United FC
+262986,Keiber Lamadrid,Offence,2003-11-18,Venezuela,563,West Ham United FC
+292496,Joshua Ajala,Offence,2006-11-13,England,563,West Ham United FC
+209130,Lewis Orford,Central Midfield,2006-02-18,England,563,West Ham United FC
+188900,Oliver Scarles,Left-Back,2005-12-12,England,563,West Ham United FC
+187216,Mateus Fernandes,Central Midfield,2004-07-10,Portugal,563,West Ham United FC
+179625,Soungoutou Magassa,Defensive Midfield,2003-10-08,France,563,West Ham United FC
+176597,Freddie Potts,Defensive Midfield,2003-09-12,England,563,West Ham United FC
+102193,Crysencio Summerville,Left Winger,2001-10-30,Netherlands,563,West Ham United FC
+79903,Jean-Clair Todibo,Centre-Back,1999-12-30,France,563,West Ham United FC
+28416,Valentín Castellanos,Centre-Forward,1998-10-03,Argentina,563,West Ham United FC
+25376,Max Kilman,Centre-Back,1997-05-23,England,563,West Ham United FC
+15742,Tomáš Souček,Defensive Midfield,1995-02-27,Czech Republic,563,West Ham United FC
+11414,Jarrod Bowen,Right Winger,1996-01-01,England,563,West Ham United FC
+8251,Callum Wilson,Centre-Forward,1992-02-27,England,563,West Ham United FC
+8158,Aaron Wan-Bissaka,Right-Back,1997-11-26,DR Congo,563,West Ham United FC
+7995,Kyle Walker-Peters,Right-Back,1997-04-13,England,563,West Ham United FC
+7789,Konstantinos Mavropanos,Centre-Back,1997-12-11,Greece,563,West Ham United FC
+4221,Adama Traoré,Right Winger,1996-01-25,Spain,563,West Ham United FC
+813,Axel Disasi,Centre-Back,1998-03-11,France,563,West Ham United FC
+8079,Fraser Forster,Goalkeeper,1988-03-17,England,1044,AFC Bournemouth
+43190,Christos Mandas,Goalkeeper,2001-09-17,Greece,1044,AFC Bournemouth
+121765,Đorđe Petrović,Goalkeeper,1999-10-08,Serbia,1044,AFC Bournemouth
+227046,Veljko Milosavljević,Defence,2007-06-28,Serbia,1044,AFC Bournemouth
+192316,Alex Toth,Midfield,2005-10-23,Hungary,1044,AFC Bournemouth
+290922,Charlie Stevens,Midfield,2007-05-31,Wales,1044,AFC Bournemouth
+203356,Rayan,Offence,2006-08-03,Brazil,1044,AFC Bournemouth
+273757,Remy Rees-Dottin,Offence,2006-03-06,England,1044,AFC Bournemouth
+289696,Malcom Dacosta,Offence,2008-04-17,Ecuador,1044,AFC Bournemouth
+227048,Álex Jiménez,Right-Back,2005-05-08,Spain,1044,AFC Bournemouth
+204241,Eli Kroupi,Centre-Forward,2006-06-23,France,1044,AFC Bournemouth
+187546,Matai Akinmboni,Centre-Back,2006-10-17,USA,1044,AFC Bournemouth
+183583,Julio Soler,Left-Back,2005-02-16,Argentina,1044,AFC Bournemouth
+176789,Ben Doak,Right Winger,2005-11-11,Scotland,1044,AFC Bournemouth
+161088,Alex Scott,Central Midfield,2003-08-21,England,1044,AFC Bournemouth
+137047,Amine Adli,Left Winger,2000-05-10,Morocco,1044,AFC Bournemouth
+135482,Adrien Truffert,Left-Back,2001-11-20,France,1044,AFC Bournemouth
+131260,Evanilson,Centre-Forward,1999-10-06,Brazil,1044,AFC Bournemouth
+98745,Bafodé Diakité,Centre-Back,2001-01-06,France,1044,AFC Bournemouth
+82145,James Hill,Centre-Back,2002-01-10,England,1044,AFC Bournemouth
+77596,Tyler Adams,Defensive Midfield,1999-02-14,USA,1044,AFC Bournemouth
+46046,Marcos Senesi,Centre-Back,1997-05-10,Argentina,1044,AFC Bournemouth
+34495,Ryan Christie,Central Midfield,1995-02-22,Scotland,1044,AFC Bournemouth
+33132,Enes Ünal,Centre-Forward,1997-05-10,Turkey,1044,AFC Bournemouth
+8231,Adam Smith,Right-Back,1991-04-29,England,1044,AFC Bournemouth
+7561,Justin Kluivert,Left Winger,1999-05-05,Netherlands,1044,AFC Bournemouth
+6396,Marcus Tavernier,Left Midfield,1999-03-22,England,1044,AFC Bournemouth
+4321,David Brooks,Right Winger,1997-07-08,Wales,1044,AFC Bournemouth
+3327,Lewis Cook,Central Midfield,1997-02-03,England,1044,AFC Bournemouth

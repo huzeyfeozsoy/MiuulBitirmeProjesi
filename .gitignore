@@ -1,0 +1,97 @@
+# =========================================================
+# SmartClub 360 - .gitignore
+# =========================================================
+
+# ----- Sanal Ortamlar / Python -----
+.conda/
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+develop-eggs/
+pip-wheel-metadata/
+
+# ----- Jupyter / IPython -----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# ----- IDE / Editor -----
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# ----- OS metadata -----
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+__MACOSX/
+**/__MACOSX/
+._*
+
+# ----- Office / Geçici dosyalar -----
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# ----- Hassas Veriler -----
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# ----- Loglar ve geçici -----
+*.log
+logs/
+*.tmp
+*.bak
+
+# ----- Selenium / WebDriver geçici -----
+downloaded_files/
+*.lock
+geckodriver.log
+chromedriver.log
+
+# ----- Model artifacts (büyük dosyalar) -----
+# Notlar: Egitilmis pkl modelleri istisnai olarak repoya dahil
+# edilebilir; cok buyuk olanlari LFS'e atin veya hariç tutun.
+*.h5
+*.joblib
+
+# ----- CatBoost training artifacts -----
+catboost_info/
+**/catboost_info/
+
+# ----- Miuul Bootcamp kurs modulleri (bitirme projesinden bagimsiz) -----
+crmAnalytics/
+feature_engineering/
+machine_learning/
+measurement_problems/
+recommender_systems/
+data-scraping-sofascore/
+
+# ----- Sunum dosyalari (boyut/lisans nedeniyle harici) -----
+*.pptx
+
+# ----- Geçici/yardımcı script çıktıları -----
+app/debug_names.py
+app/name_check.py
+app/name_diff.txt
