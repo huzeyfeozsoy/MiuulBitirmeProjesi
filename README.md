@@ -138,7 +138,11 @@ source .venv/bin/activate
 ### 3. Bağımlılıkları yükleyin
 
 ```bash
+# Sadece uygulamayı çalıştırmak için:
 pip install -r requirements.txt
+
+# Veri çekme, model eğitimi ve tüm pipeline için:
+pip install -r requirements-dev.txt
 ```
 
 ### 4. Ortam değişkenlerini ayarlayın
@@ -221,6 +225,14 @@ python 4_player_based_analysis.py
 | Transfermarkt         | Oyuncu piyasa değerleri                      | SeleniumBase scraping |
 
 > Veri sahipleri ve kullanım koşulları için ilgili sitelerin **ToS** belgelerini inceleyiniz. Bu repodaki veriler **yalnızca akademik/araştırma amaçlı** kullanılmıştır.
+
+---
+
+## Canlı Demo
+
+Uygulama **Streamlit Community Cloud** üzerinde deploy edilmiştir:
+
+> **[smartclub360.streamlit.app](https://smartclub360.streamlit.app)** *(deploy sonrası URL güncellenecektir)*
 
 ---
 

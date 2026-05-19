@@ -1,0 +1,33 @@
+# =========================================================
+# SmartClub 360 - Development / Full Pipeline Dependencies
+# =========================================================
+# Kurulum:  pip install -r requirements-dev.txt
+# Bu dosya veri cekme, model egitimi ve analiz icin gereken
+# TUM bagimliliklari icerir.
+
+# ----- App bagimliliklari (zaten requirements.txt'te) -----
+-r requirements.txt
+
+# ----- Makine Ogrenmesi (Model Egitimi) -----
+lightgbm>=4.0.0
+xgboost>=2.0.0
+catboost>=1.2.0
+shap>=0.42.0
+
+# ----- Gorsellestirme -----
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ----- Notebook -----
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# ----- Veri Cekme (Scraping / API) -----
+python-dotenv>=1.0.0
+soccerdata>=1.6.0
+beautifulsoup4>=4.12.0
+seleniumbase>=4.20.0
+openpyxl>=3.1.0
+
+# ----- Sunum Olusturma -----
+python-pptx>=0.6.21
